@@ -1,17 +1,18 @@
-### 👋  Hello, I am Kleiton Azevedo, welcome to my github.
+### Hello  👋 , I am Kleiton Azevedo, welcome to my github.
 
 I'm a Web developer , mobile apps and APIs. Currently my stack is: 
 
  :rocket: - Web front-end development with **ReactJs** <br/>
  :rocket: - Mobile applications for Android and iOS with **React Native** <br/> 
  :rocket: - API with **NodeJs** <br/>
- :rocket: - Database: **MySQL**, **Postgres**, **Mongo**, **Firebase (Cloud Firestore/Real Time)**,  <br/>
+ :rocket: - Database: **MySQL**, **Postgres**, **Mongo**, **Firebase (Cloud Firestore/Real Time)** <br/>
+ :rocket: - My Background was  **PHP**, **Wordpress** <br/>
 
 
 ### Technical Skills
 
 
-#### ✍🏼 Designing: <br/>
+#### Designer <br/>
 
 <a href="#">
       <img alt="Figma" src="https://img.shields.io/badge/Figma-0076D0.svg?style=for-the-badge&logo=figma&logoColor=white" />
@@ -20,7 +21,27 @@ I'm a Web developer , mobile apps and APIs. Currently my stack is:
       <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-0076D0.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
 </a>
 
-####  :speech_balloon: Languages
+<a href="#">
+      <img alt="html" src="https://img.shields.io/badge/Html-0076D0.svg?style=for-the-badge&logo=html5&logoColor=white" />
+</a>
+
+<a href="#">
+      <img alt="css" src="https://img.shields.io/badge/Css-0076D0.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</a>
+
+<a href="#">
+      <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-0076D0.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</a>
+
+<a href="#">
+      <img alt="Styled Components" src="https://img.shields.io/badge/Styled Components-0076D0.svg?style=for-the-badge&logo=styledcomponents&logoColor=white" />
+</a>
+
+#### Languages
+
+<a href="#">
+      <img alt="php" src="https://img.shields.io/badge/php-0076D0.svg?style=for-the-badge&logo=php&logoColor=white" />
+</a>
 
 <a href="#">
       <img alt="javascript" src="https://img.shields.io/badge/JavaScript-0076D0.svg?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -28,26 +49,24 @@ I'm a Web developer , mobile apps and APIs. Currently my stack is:
 <a href="#">
       <img alt="typescript" src="https://img.shields.io/badge/typescript-0076D0.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </a>
-<a href="#">
-      <img alt="sql" src="https://img.shields.io/badge/sql-0076D0.svg?style=for-the-badge&logo=sql&logoColor=white" />
-</a>
 
-#### :hammer: Frameworks
 
-<a href="#">
-      <img alt="Electron" src="https://img.shields.io/badge/electron-0076D0.svg?style=for-the-badge&logo=electron&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="gatsby" src="https://img.shields.io/badge/gatsby-0076D0.svg?style=for-the-badge&logo=gatsby&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="Next" src="https://img.shields.io/badge/next-0076D0.svg?style=for-the-badge&logo=next.js&logoColor=white" />
-</a>
+#### Frameworks
+
 <a href="#">
       <img alt="React" src="https://img.shields.io/badge/react-0076D0.svg?style=for-the-badge&logo=react&logoColor=white" />
 </a>
+
+<a href="#">
+      <img alt="Next" src="https://img.shields.io/badge/next-0076D0.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+</a>
+
 <a href="#">
       <img alt="React Native" src="https://img.shields.io/badge/react Native-0076D0.svg?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+
+<a href="#">
+      <img alt="Express Js" src="https://img.shields.io/badge/express JS-0076D0.svg?style=for-the-badge&logo=express&logoColor=white" />
 </a>
 
 

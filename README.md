@@ -2,17 +2,34 @@
 
 I'm a Web developer , mobile apps and APIs. Currently my stack is: 
 
- :rocket: - Web front-end development with **ReactJs** <br/>
- :rocket: - Mobile applications for Android and iOS with **React Native** <br/> 
- :rocket: - API with **NodeJs** <br/>
- :rocket: - Database: **MySQL**, **Postgres**, **Mongo**, **Firebase (Cloud Firestore/Real Time)** <br/>
- :rocket: - My Background was  **PHP**, **Wordpress** <br/>
+<a href="#">
+      <img alt="react" src="https://img.shields.io/badge/ Frontend-development with ( ReactJs )-0076D0.svg?style=for-the-badge&logo=swagger&logoColor=white" />
+</a>
+<br/>
+<a href="#">
+      <img alt="react" src="https://img.shields.io/badge/ Mobile-applications for Android and iOS with ( React Native )-0076D0.svg?style=for-the-badge&logo=swagger&logoColor=white" />
+</a>
+<br/>
+
+<a href="#">
+      <img alt="Nodejs" src="https://img.shields.io/badge/ Back end-API with ( NodeJs )-0076D0.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+</a> 
+<br/>
+<a href="#">
+      <img alt="Nodejs" src="https://img.shields.io/badge/ Database-( MySQL, Postgres, MongoDb, Firebase )-0076D0.svg?style=for-the-badge&logo=amazondynamoDB&logoColor=white" />
+</a>
+<br/><br/>
+My Background was  **PHP**, **Wordpress** <br/>
+<br/>
+<a href="#">
+      <img alt="Nodejs" src="https://img.shields.io/badge/ PHP -( MySQL, Postgres, MongoDb, Firebase )-0076D0.svg?style=for-the-badge&logo=php&logoColor=white" />
+</a>
 
 
-### Technical Skills
+###  :rocket: Technical Skills
 
 
-#### Designer <br/>
+#### Designer 
 
 <a href="#">
       <img alt="Figma" src="https://img.shields.io/badge/Figma-0076D0.svg?style=for-the-badge&logo=figma&logoColor=white" />
@@ -22,7 +39,7 @@ I'm a Web developer , mobile apps and APIs. Currently my stack is:
 </a>
 
 <a href="#">
-      <img alt="html" src="https://img.shields.io/badge/Html-0076D0.svg?style=for-the-badge&logo=html5&logoColor=white" />
+      <img alt="html" src="https://img.shields.io/badge/Html-0076D0.svg?style=for-the-badge&logo=html5&logoColor=white" style="border-radius: 20px" />
 </a>
 
 <a href="#">
@@ -46,9 +63,7 @@ I'm a Web developer , mobile apps and APIs. Currently my stack is:
 <a href="#">
       <img alt="javascript" src="https://img.shields.io/badge/JavaScript-0076D0.svg?style=for-the-badge&logo=javascript&logoColor=white" />
 </a>
-<a href="#">
-      <img alt="typescript" src="https://img.shields.io/badge/typescript-0076D0.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-</a>
+
 
 
 #### Frameworks
@@ -69,17 +84,31 @@ I'm a Web developer , mobile apps and APIs. Currently my stack is:
       <img alt="Express Js" src="https://img.shields.io/badge/express JS-0076D0.svg?style=for-the-badge&logo=express&logoColor=white" />
 </a>
 
+#### Databases
 
-#### :wrench: Tools & Environments
+<a href="#">
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0076D0.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</a>
+
+<a href="#">
+      <img alt="Mongo DB" src="https://img.shields.io/badge/Mongo DB-0076D0.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+</a>
+
+<a href="#">
+      <img alt="Firebase" src="https://img.shields.io/badge/Firebase-0076D0.svg?style=for-the-badge&logo=firebase&logoColor=white" />
+</a>
+
+
+#### Tools & Environments
 
 <a href="#">
       <img alt="Git" src="https://img.shields.io/badge/Git-0076D0.svg?style=for-the-badge&logo=git&logoColor=white" />
 </a>
 <a href="#">
-      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0076D0.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img alt="Nodejs" src="https://img.shields.io/badge/node-0076D0.svg?style=for-the-badge&logo=node.js&logoColor=white" />
 </a>
 <a href="#">
-      <img alt="Nodejs" src="https://img.shields.io/badge/node-0076D0.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img alt="typescript" src="https://img.shields.io/badge/typescript-0076D0.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </a>
 <a href="#">
       <img alt="NPM" src="https://img.shields.io/badge/NPM-0076D0.svg?style=for-the-badge&logo=npm&logoColor=white" />
@@ -88,15 +117,20 @@ I'm a Web developer , mobile apps and APIs. Currently my stack is:
       <img alt="Yarn" src="https://img.shields.io/badge/Yarn-0076D0.svg?style=for-the-badge&logo=yarn&logoColor=white" />
 </a>
 
+<a href="#">
+      <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-0076D0.svg?style=for-the-badge&logo=visualstudio&logoColor=white" />
+</a>
+
+
 
 
 #### Architetures & Others
 
 <p align="left">
 
-<a href="#">
+<!-- <a href="#">
       <img alt="Microservices" src="https://img.shields.io/badge/Microservices-0076D0.svg?style=for-the-badge" />
-</a>
+</a> -->
 <a href="#">
       <img alt="MVC" src="https://img.shields.io/badge/MVC-0076D0.svg?style=for-the-badge" />
 </a>

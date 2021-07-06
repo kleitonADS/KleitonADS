@@ -30,7 +30,7 @@
       <img alt="Styled Components" src="https://img.shields.io/badge/Styled Components-0076D0.svg?style=for-the-badge&logo=styledcomponents&logoColor=white" />
 </a>
 <br/>
-
+<br/>
 
 
 <a href="#">
@@ -52,7 +52,7 @@
       <img alt="typescript" src="https://img.shields.io/badge/typescript-0076D0.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </a>
 <br/>
-
+<br/>
 
 <a href="#">
       <img alt="Mobile" src="https://img.shields.io/badge/ Mobile ( HTML5, CSS3, JAVASCRIPT )-white.svg?style=for-the-badge&logo=swagger&logoColor=black" />
@@ -65,7 +65,7 @@
       <img alt="Expor" src="https://img.shields.io/badge/Expo-0076D0.svg?style=for-the-badge&logo=expo&logoColor=white" />
 </a>
 
-
+<br/>
 <br/>
 <a href="#">
       <img alt="Database" src="https://img.shields.io/badge/ Database-white.svg?style=for-the-badge&logo=swagger&logoColor=black" />
@@ -85,7 +85,7 @@
 </a>
 
 <br/>
-
+<br/>
 
 <a href="#">
       <img alt="Designer" src="https://img.shields.io/badge/ Designer-white.svg?style=for-the-badge&logo=swagger&logoColor=black" />
@@ -121,6 +121,8 @@
 <a href="#">
       <img alt="wordpresst" src="https://img.shields.io/badge/Wordpress-0076D0.svg?style=for-the-badge&logo=wordpress&logoColor=white" />
 </a>
+<br/>
+<br/>
 
 ### :wrench: Tools:
 

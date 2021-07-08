@@ -1,6 +1,7 @@
 ### Hello  👋 , I am Kleiton Azevedo, welcome to my github.
 
-<img src="https://kleitonads.github.io/profile/img/RocketSeat.png"  alt="Passaport Rocket Seat" width="500px"/>
+
+<img src="https://github.com/kleitonADS/kleitonADS/blob/main/RocketSeat.png" alt="Passaport Rocket Seat" width="500px" />
 
 ###  :dart: My currently stack is:
 

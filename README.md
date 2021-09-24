@@ -126,7 +126,7 @@
 </a>
 
 <a href="#">
-      <img alt="wordpresst" src="https://img.shields.io/badge/Wordpresse-0076D0.svg?style=for-the-badge&logo=wordpress&logoColor=white" />
+      <img alt="wordpresst" src="https://img.shields.io/badge/Wordpress-0076D0.svg?style=for-the-badge&logo=wordpress&logoColor=white" />
 </a>
 <br/>
 <br/>

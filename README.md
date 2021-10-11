@@ -122,7 +122,11 @@
 </a>
 
 <a href="#">
-      <img alt="wordpresst" src="https://img.shields.io/badge/PostgreSQL-0076D0.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+      <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0076D0.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+</a>
+
+<a href="#">
+      <img alt="Laravel" src="https://img.shields.io/badge/Laravel-0076D0.svg?style=for-the-badge&logo=Laravel&logoColor=white" />
 </a>
 
 <a href="#">

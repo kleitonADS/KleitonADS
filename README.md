@@ -33,7 +33,7 @@
       <img alt="Styled Components" src="https://img.shields.io/badge/Styled Components-0076D0.svg?style=for-the-badge&logo=styledcomponents&logoColor=white" />
 </a>
 <br/>
-<br/>
+
 
 
 <a href="#">
@@ -55,21 +55,9 @@
       <img alt="typescript" src="https://img.shields.io/badge/typescript-0076D0.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </a>
 <br/>
-<br/>
 
-<a href="#">
-      <img alt="Mobile" src="https://img.shields.io/badge/ Mobile ( HTML5, CSS3, JAVASCRIPT )-white.svg?style=for-the-badge&logo=swagger&logoColor=black" />
-</a>
-<br/>
-<a href="#">
-      <img alt="React Native" src="https://img.shields.io/badge/react Native-0076D0.svg?style=for-the-badge&logo=react&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="Expor" src="https://img.shields.io/badge/Expo-0076D0.svg?style=for-the-badge&logo=expo&logoColor=white" />
-</a>
 
-<br/>
-<br/>
+
 <a href="#">
       <img alt="Database" src="https://img.shields.io/badge/ Database-white.svg?style=for-the-badge&logo=swagger&logoColor=black" />
 </a>
@@ -88,7 +76,6 @@
 </a>
 
 <br/>
-<br/>
 
 <a href="#">
       <img alt="Designer" src="https://img.shields.io/badge/ Designer-white.svg?style=for-the-badge&logo=swagger&logoColor=black" />
@@ -100,7 +87,7 @@
 <a href="#">
       <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-0076D0.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
 </a>
-<br/>
+
 
 
 ### :school_satchel: My Background was:
@@ -135,22 +122,5 @@
 <br/>
 <br/>
 
-### :wrench: Tools:
-
-<a href="#">
-      <img alt="Git" src="https://img.shields.io/badge/Git-0076D0.svg?style=for-the-badge&logo=git&logoColor=white" />
-</a>
-
-
-<a href="#">
-      <img alt="NPM" src="https://img.shields.io/badge/NPM-0076D0.svg?style=for-the-badge&logo=npm&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="Yarn" src="https://img.shields.io/badge/Yarn-0076D0.svg?style=for-the-badge&logo=yarn&logoColor=white" />
-</a>
-
-<a href="#">
-      <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-0076D0.svg?style=for-the-badge&logo=visualstudio&logoColor=white" />
-</a>
 
 

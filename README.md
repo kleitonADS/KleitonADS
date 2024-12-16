@@ -42,6 +42,9 @@
 <br/>
 
 <a href="#">
+      <img alt="Laravel" src="https://img.shields.io/badge/Laravel-0076D0.svg?style=for-the-badge&logo=Laravel&logoColor=white" />
+</a>
+<a href="#">
       <img alt="javascript" src="https://img.shields.io/badge/JavaScript-0076D0.svg?style=for-the-badge&logo=javascript&logoColor=white" />
 </a>
 <a href="#">
